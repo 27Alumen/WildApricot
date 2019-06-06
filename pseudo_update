@@ -1,0 +1,6 @@
+open export file
+read in updated records to a list
+for each in the list
+  find in the export file
+  replace status
+close export file
